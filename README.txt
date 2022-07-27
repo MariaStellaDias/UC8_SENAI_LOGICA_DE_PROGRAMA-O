@@ -1,0 +1,1 @@
+Este projeto é um cadastro de evento onde é restrito a participação de 100 pessoas em que só poderam entrar adultos maiores de 18 anos
